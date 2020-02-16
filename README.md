@@ -1,6 +1,6 @@
-*Debemos cambiar la ip del servidor en  file-upload.service.ts.
+* Debemos cambiar la ip del servidor en  file-upload.service.ts.
   ```Ejemplo:   baseURL = "http://192.168.178.180:3000/api";```
-*Tambien tenemos que cambiar el puerto en backend/server.js;
+* Tambien tenemos que cambiar el puerto en backend/server.js;
   ```Ejemplo: const port = process.env.PORT || 3000 ;```
 
 
